@@ -10,6 +10,7 @@ The following is included in this repository:
 
 - CAD files of 3D printed parts used
   - The motor mount and spool are also modified versions of the part files [found here](https://www.vinerobots.org/build-one/pre-formed-vine-robot/).
+  - The prototype assembly used to create the renders from the report are also included.
 
 
 
